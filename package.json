@@ -1,16 +1,16 @@
 {
-  "name": "@gui117/package",
+  "name": "package-name",
   "type": "module",
   "version": "0.0.0",
   "packageManager": "pnpm@9.8.0",
   "description": "_description_",
   "license": "MIT",
-  "homepage": "https://github.com/gui117/@gui117/package#readme",
+  "homepage": "https://github.com/gui117/package-name#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gui117/@gui117/package"
+    "url": "git+https://github.com/gui117/package-name.git"
   },
-  "bugs": "https://github.com/gui117/@gui117/package/issues",
+  "bugs": "https://github.com/gui117/package-name/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
